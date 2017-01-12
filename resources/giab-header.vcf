@@ -1,0 +1,4 @@
+##INFO=<ID=END,Number=1,Type=Integer,Description="SV end.">
+##INFO=<ID=SVTYPE,Number=1,Type=String,Description="SV type.">
+##INFO=<ID=SVLEN,Number=1,Type=Integer,Description="SV len.">
+##FILTER=<ID=lt3,Description="Support by less than three callers.">
